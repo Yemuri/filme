@@ -1,0 +1,13 @@
+.carousel {
+    display: flex;
+    /* border: 1px solid red; */
+    width: auto;
+    justify-content: center;
+
+}
+
+.imgcarousel {
+    border: rgb(30, 255, 0) solid 1px;
+    justify-content: center;
+
+}
